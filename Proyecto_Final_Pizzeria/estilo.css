@@ -1,0 +1,410 @@
+body{
+  background-color: #d2cbc1;
+  font-family: sans-serif;
+}
+html{
+  scroll-behavior:smooth;
+}
+.ancho{
+  width: 1200px;
+  margin: auto;
+}
+.arriba{
+  background-color: #a41f1f;
+}
+.menu{
+  border-radius: 8px;
+  padding: 20px;
+  vertical-align: middle;
+  display: inline-block;
+  width: 600px;
+  margin-right: 0px;
+  margin-left: 250px;
+  background-color:#852828a2 ;
+  
+}
+.menu a{
+  
+  font-size: 20px;
+  color: white;
+  margin-left: 25px; 
+  text-decoration: none;
+  text-transform: uppercase;
+  
+}
+.menu a:hover{
+  padding-top: 18px;
+  padding-bottom: 18px;
+  color: black;
+  background-color:#fce75dfd;
+  border-radius: 8px;
+}
+.logo{
+  padding: 15px;
+  vertical-align: middle;
+  display: inline-block;
+  width: 150px;
+  margin-left: 140px;
+}
+
+.border{
+  border: 1px orange solid;
+  height: 50px;
+}
+.inicio_sesion{
+
+  border-radius: 4px;
+  margin-left: 50px;
+  display: inline-block;
+  vertical-align: middle;
+   padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color:#852828a2 ;
+}
+.inicio_sesion a{
+  text-decoration: none;
+  color: white;
+}
+.inicio_sesion :hover{
+  color: black;
+}
+
+.logo_sesion{
+  width: 50px;
+}
+.logo_inicio{
+  padding: 15px;
+  width: 150px;
+  margin: auto;
+}
+.linea_negra{
+  margin: auto;
+  vertical-align: middle;
+  display: inline-block;
+}
+.centrar_arriba{
+  text-align: center;
+}
+.uno{
+  vertical-align: middle;
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.822);
+  width: 650px;
+height: 35px;
+border-radius: 5px;
+}
+.dos{
+  margin-right: auto;
+  text-align: right;
+  vertical-align: middle;
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.824);
+  width: 650px;
+height: 35px;
+border-radius: 5px;
+}
+
+.login{
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  width: 500px;
+}
+.home_pizza{
+  width: 100px;
+}
+.form_inicio{
+
+  padding: 10px;
+  padding-left: 15px;
+border: 2px #a41f1f solid;
+border-radius: 3px;
+width: 280px;
+margin-bottom: 10px;
+}
+.btn_iniciar{
+  color: white;
+  padding: 10px;
+  padding-left: 15px;
+  background-color:#a41f1f;
+border: 1px #a41f1f97 solid;
+border-radius: 5px;
+width: 310px;
+margin-top: 10px;
+}
+.r{
+  text-decoration: none;
+  color: orange;
+}
+.form_registro{
+  padding: 5px;
+  padding-left: 15px;
+border: 2px orange solid;
+border-radius: 3px;
+width: 350px;
+margin-bottom: 10px;
+}
+.name-ape{
+  padding: 5px;
+  padding-left: 15px;
+border: 2px orange solid;
+border-radius: 3px;
+width: 160px;
+margin-bottom: 10px;
+}
+.btn_registro{
+  color: white;
+  padding: 10px;
+  padding-left: 15px;
+  background-color:orange;
+border: 1px ORANGE solid;
+border-radius: 5px;
+width: 310px;
+margin-top: 10px;
+}
+.terminos{
+  font-size: 8px;
+}
+.slider{
+  width:100%;
+  height: 600px;
+}
+.menu_pizzas{
+  height: 1600px;
+  background-color: orange;
+  text-align: center;
+}
+.titulo_menu{
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+}
+.img_pizza{
+  width: 70px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.menu_p{
+  height: 1600px;
+  width: 1200px;
+}
+.abajo{
+
+  background-color: #000000;
+  width: 100%;
+  height: 350px;
+}
+.lado_derecho{
+  margin-top: -180px;
+  margin-left: 1040px;
+  vertical-align: middle;
+  display: inline-block;
+  
+}
+.informacion_panther{
+ 
+  color: white;
+  font-family:  sans-serif;
+}
+.informacion_panther p{
+  font-size: 13px;
+  padding: 15px;
+  margin-left: 0px;
+}
+
+.logo_abajo{
+  width: 150px;
+}
+.img_ubi{
+  width: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.txt_{
+  text-decoration: none;
+  color: white;
+  font-size: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.txt_ a{
+  font-size: 10px;
+  text-decoration: none;
+  color: white;
+}
+.ubicacion_diseño{
+  margin-left: 16px;
+}
+.ubicacion_diseño2{
+  margin-left: 10px;
+}
+.ubicacion_diseño3{
+  margin-left: 0px;
+}
+
+.txt_ span{
+  font-size: 15px;
+  color: rgb(247, 232, 120);
+}
+
+.lado_izquierdo{
+  margin-top: 75px;
+margin-left: 140px;
+  
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.abajo_pizza{
+  margin-left: 15px;
+  width: 120px;
+}
+.linea_final{
+  height: 3px;
+  background: rgba(255, 255, 255, 0.603);
+}
+.xsd{
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+.xsd a{
+  text-decoration: none;
+  color: white;
+}
+
+.contactanos{
+  width: 590px;
+  display: inline-block;
+  vertical-align: middle;
+  height: 500px;
+}
+
+.ubicacion{
+width: 595px;
+  display: inline-block;
+  vertical-align: middle;
+  height: 500px;
+}
+.linea_divide{
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #7a756e;
+  width: 1px;
+  height: 400px;
+}
+.encabezado1{
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+}
+
+.encabezado2{
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: #16311e;
+  
+}
+.form_contacta{
+  text-align: center;
+}
+.diseñoform{
+  padding: 5px;
+  padding-left: 15px;
+border: 2px orange solid;
+border-radius: 3px;
+width: 350px;
+margin-bottom: 10px;
+}
+.btn_java{
+  text-align: center;
+  color: white;
+  padding: 10px;
+  padding-left: 15px;
+  background-color:orange;
+  border: 2px orange solid;
+border-radius: 5px;
+width: 110px;
+margin-top: 10px;
+}
+.mapa{
+  
+  margin-top: 30px;
+  margin-left: 50px;
+  text-align: center;
+}
+.panel_administrativo{
+  width: 1200px;
+  text-align: center;
+  margin: auto;
+}
+.admin_promociones{
+  text-align: center;
+  
+}
+.usuarios_txt{
+  color: white;
+  padding: 15px;
+  background-color: #a41f1f;
+}
+.admin_usuarios{
+  margin: auto;
+  
+  text-align: center;
+}
+.tabla_bd{
+  height: 500px;
+  
+  text-align: left;
+}
+
+.ico {
+  width:50px
+}
+
+.tamaño_tabla{
+  width: 900px;
+  margin: auto;
+  border: 2px orange solid;
+  border-spacing: 5px;
+}
+.tamaño_tabla th {
+  background-color: #a41f1f;
+  padding: 10px;
+color: white;
+}
+.tamaño_tabla td {
+  text-align: center;
+  border:1px #a41f1f solid;
+  background-color: white;
+}
+.promo_txt{
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+  color: white;
+}
+.promociones_m{
+  
+  margin: auto;
+}
+
+.video{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 150px;
+}
+.gato{
+  margin-left: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.meme{
+  width: 350px;
+}
